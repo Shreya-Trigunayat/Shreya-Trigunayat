@@ -14,5 +14,46 @@
 
 💡 As a curious learner, I’m always open to challenges that push me out of my comfort zone and provide opportunities to grow.  
 
-📨 Let’s connect! You can find me on [GitHub](https://github.com/Shreya-Trigunayat) or email me at [shreyatrigunayat@gamil.com].  
+---
 
+## 🛠️ Tech Stack  
+
+### Languages  
+- **C++**  
+- **Python**   
+- **HTML5**  
+- **CSS**  
+- **JavaScript**  
+
+### Frameworks & Libraries  
+- **Bootstrap**  
+- **Node.js**  
+- **React**  
+
+### Databases  
+- **MySQL**  
+- **MongoDB**  
+
+### Tools  
+- **Git**  
+- **GitHub**  
+- **Visual Studio Code**  
+
+---
+
+## 📌 Pinned Projects  
+
+### [Notes Craft](https://github.com/YourGitHubUsername/notes-craft)  
+**Tech Stack:** React, Node.js, MongoDB  
+A full-stack notes management application designed for organizing and managing notes effectively.  
+
+### [Blood Bridge](https://github.com/YourGitHubUsername/blood-bridge)  
+**Tech Stack:** React, Node.js, MongoDB  
+A platform connecting blood banks and hospitals to streamline blood availability and requests in real time.  
+
+---
+
+## 🤝 Connect with Me  
+
+- **LinkedIn:** [Shreya Trigunayat](https://www.linkedin.com/in/Shreya-Trigunayat)  
+- **Email:** [shreyatrigunayat@gmail.com](mailto:shreyatrigunayat@gmail.com)  
